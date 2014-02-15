@@ -1,0 +1,3 @@
+#!/bin/sh
+
+ripple/incubator-ripple/bin/ripple emulate --path .
